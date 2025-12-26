@@ -3,7 +3,7 @@
 This project includes a single interactive Tableau dashboard with multiple interconnected views.
 
 **Tableau Public link:**  
-[View Dashboard]([https://public.tableau.com/views/E-commerceProjectDashboard/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/E-commerceProject_17666699417420/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Dashboard](https://public.tableau.com/app/profile/chirag.somashekar/viz/E-commerceProjectDashboard/SalesDashboard)
 
 ## Available dashboard views
 - **Sales Dashboard** – revenue, orders, and AOV trends
