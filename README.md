@@ -24,7 +24,7 @@ Business questions answered:
 ## Deliverables
 - **Executive slides (PDF):** [slides](slides/) 
 - **Full report (PDF):** [report](report/)  
-- **Dashboard (Tableau):** [dashboard](dashboard/) (external link + navigation notes)
+- **Dashboard (Tableau):** [dashboard](dashboards/) (external link + navigation notes)
 - **SQL queries:** [sql](sql/)
 
 ### Dashboard pages (4 tabs inside one Tableau workbook)
