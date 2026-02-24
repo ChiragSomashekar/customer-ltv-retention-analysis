@@ -17,7 +17,7 @@ Growth is acquisition-led, while long-term value is retention-constrained.
 - Is revenue growth durable or acquisition-dependent?
 - Where does customer lifetime value decay, and why?
 - Which segments generate most long-term value?
-- Which does conversion friction occur?
+- Where does conversion friction occur?
 - How does observed retention constrain realistic LTV and marketing ROI?
 
 ---
@@ -42,17 +42,17 @@ Growth is driven by customer volume, not increased per-customer value.
 - Dormant and “Needs Attention” segments represent ~44% of historical revenue, indicating reactivation opportunity.
 
 ### Funnel Leakage 
-Event-level diagnostics shows drop-off between `view_item → add_to_cart`, suggesting optimisation opportunity in the product evaluation stage.
+Event-level diagnostics show a material drop between `view_item → add_to_cart`, indicating optimisation opportunity in the product evaluation stage.
 
 ---
 
 ## Strategic Answers
 
-- Revenue growth is acquisition-dependent and structurally fragile.
+- Revenue growth is acquisition-dependent and not structurally durable.
 - Customer lifetime value decays sharply after Year 1.
 - Long-term revenue is concentrated in a small loyal base.
 - Funnel friction exists, but retention is the dominant constraint.
-- Improving repeat purchase rate offers higher marginal ROI than increasing acquisition volume.
+- Improving repeat purchase rate offers higher marginal ROI than incremental acquisition spend.
 
 ---
 
@@ -87,9 +87,3 @@ Event-level diagnostics shows drop-off between `view_item → add_to_cart`, sugg
 
 - Funnel analysis is event-level (not session-based).
 - Long-term LTV projections treated conservatively due to low repeat rate.
-
----
-
-## Key Takeaway
-
-Acquisition is driving short-term revenue growth, but weak repeat behaviour constrains long-term customer value.
